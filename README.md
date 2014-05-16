@@ -1,5 +1,4 @@
 # Shorefire's Dotfiles
 
-$nbsp;
 
 -------------------------
