@@ -1,0 +1,58 @@
+URxvt*font: xft:AnonymousPro:pixelsize=10:antialias=false:hinting=false
+URxvt*boldFont::  xft:AnonymousPro:pixelsize=10:antialias=false:hinting=false
+URxvt.scrollBar:false
+URxvt.background: #1C1618
+URxvt.foreground: #c5c5c5
+URxvt.cursorColor: #ff005b
+URxvt.title: "urxvt"
+URxvt.letterSpace: +1
+URxvt*transparent: false
+URxvt*shading: 30
+Urxvt.depth:24
+Urxvt*perl-lib:            /usr/lib/urxvt/perl/
+urxvt*perl-ext-common:        default,matcher
+urxvt*urlLauncher:        /usr/bin/firefox
+urxvt*matcher.button:        1
+urxvt*matcher.pattern.1:   \\bwww\\.[\\w-]+\\.[\\w./?&@#-]*[\\w/-]
+URxvt.cursorBlink: 1
+URxvt.cursorUnderline: 1
+Xcursor*theme: default
+
+*cursorColor:   #cee318
+
+*background:    #1C1618
+*foreground:    #ff005b
+
+! black
+*color0:        #404040
+*color8:        #666666
+
+! red
+*color1:        #ff005b
+*color9:        #ff00a0
+
+! green
+*color2:        #cee318
+*color10:       #ccff00
+
+! yellow
+*color3:        #ffe755
+*color11:       #ff9f00
+
+! blue
+*color4:        #048ac7
+*color12:       #48c6ff
+
+! magenta
+*color5:        #833c9f
+*color13:       #be67e1
+
+! cyan 
+*color6:        #0ac1cd
+*color14:       #63e7f0
+
+! white
+*color7:        #ffffff
+*color15:       #f3f3f3
+
+
